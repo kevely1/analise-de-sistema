@@ -5,7 +5,7 @@ Este documento especifica os requisitos funcionais do módulo de agendamento
 
 ##2. Requesitos Funcionais (RF)
 -[] RF01: O paciente deve conseguir visualizar os horários disponíveis de cada médico
--[] RF02: O sistema deve permite o agendamento de consultas com confirmação por e-mail.
+-[] RF02: O sistema deve permite o agendamento de consultas com confirmação por WhatsApp e e-mail.
 -[] RF03: O médico deve visualizar sua agenda diária e semenal
 
 ##3. requísítos não Funcionais (RNF)
